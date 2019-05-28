@@ -1,5 +1,5 @@
 {
-  "name": "simple-eventbus",
+  "name": "simple-events-bus",
   "version": "0.1.0",
   "description": "simple eventbus based on fbemitter",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khofaai/simple-eventbus.git"
+    "url": "git+https://github.com/khofaai/simple-events-bus.git"
   },
   "keywords": [
     "eventbus",
@@ -18,9 +18,9 @@
   "author": "Anas EL ALAMI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khofaai/simple-eventbus/issues"
+    "url": "https://github.com/khofaai/simple-events-bus/issues"
   },
-  "homepage": "https://github.com/khofaai/simple-eventbus#readme",
+  "homepage": "https://github.com/khofaai/simple-events-bus#readme",
   "dependencies": {
     "fbemitter": "^2.1.1"
   }
