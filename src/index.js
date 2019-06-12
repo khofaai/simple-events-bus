@@ -27,6 +27,10 @@ let EventInterface = {
     }
   },
   
+  removeAllListeners() {
+    eventBus.removeAllListeners();
+  },
+  
   getInstance() {
     return eventBus;
   }
