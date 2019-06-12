@@ -23,6 +23,9 @@ eventBus.addListeners('key', _ => {
 // to remove a listener
 eventBus.removeListener('key');
 
+// to remove all listeners
+eventBus.removeAllListeners();
+
 // to emit a event
 eventBus.emit('key');
 
