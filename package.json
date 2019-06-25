@@ -1,6 +1,6 @@
 {
   "name": "simple-events-bus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "simple eventbus based on fbemitter",
   "main": "src/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "keywords": [
     "eventbus",
     "events",
+    "event",
     "fbemitter"
   ],
   "author": "Anas EL ALAMI",
